@@ -44,7 +44,10 @@ background: -webkit-linear-gradient(top, #333333);
     font-size: 20px;
 }
 
-#post{
-    background: blanchedalmond;
-    padding: 1em;
+#footer{
+    background: violet;
+    color: black;
+    text-align: center;
+    padding: 0.5em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
