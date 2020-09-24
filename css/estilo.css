@@ -9,12 +9,12 @@
 }
 
 #cabecera{
-color:black;
+color:white;
 font-family: Courier;
 /*border:solin;*/
 padding: 50px;
-background-color: white;
-box-shadow: rgb(7,6,11) 5px 5px 25px ;
+background-color: blue;
+box-shadow: rgb(7,6,11) 3px 3px 20px ;
 border-radius:10px;
 background: -webkit-linear-gradient(top, #333333);
 
@@ -42,4 +42,9 @@ background: -webkit-linear-gradient(top, #333333);
 #Containerh1
 {
     font-size: 20px;
+}
+
+#post{
+    background: blanchedalmond;
+    padding: 1em;
 }
