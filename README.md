@@ -9,5 +9,6 @@ Un blog increible para el[ curso de Git y Github](https://platzi.com/cursos/git-
 * El verdadero amor por las buenas pr&aacutecticas
 * Trucos muy locos del profesor
 * Las personalidades mul&uacute;tiples de Freddy
+* Creado por mi persona Nestor Mendoza
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñ&aacute;do para el ejemplo. Si llegas ac&aacute; NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
