@@ -11,5 +11,6 @@ Un blog increible para el[ curso de Git y Github](https://platzi.com/cursos/git-
 * Las personalidades mul&uacute;tiples de Freddy
 * Creado por mi persona Nestor Mendoza
 * Incluye clases de platzi
+* Puedes aprender mucho
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñ&aacute;do para el ejemplo. Si llegas ac&aacute; NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
